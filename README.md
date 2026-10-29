@@ -35,3 +35,7 @@ Run the tests with **Test > Run All Tests** (or `dotnet test`). At first most of
 - Pass parameters as an anonymous object whose property names match the `@` names: `new { BookId = bookId }`.
 - Dapper maps columns to properties by name. The `ISBN` column is padded with spaces: `RTRIM(ISBN) AS Isbn` trims it and names it to match the `Isbn` property.
 - For `GetByIds`, write `WHERE BookId IN @BookIds`, with no parentheses: Dapper expands the list for you.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
