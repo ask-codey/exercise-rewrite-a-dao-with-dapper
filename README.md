@@ -1,8 +1,8 @@
-# Practice: Rewrite a DAO with Dapper
+# Exercise: Rewrite a DAO with Dapper
 
-Practice code for the lesson **Practice: Rewrite a DAO with Dapper** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: Rewrite a DAO with Dapper** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
-These are the BooksPlus DAOs from *Practice: Connecting an App*, with their method bodies taken out. You'll write each one again, this time with **Dapper**, and add two new methods. The tests are the same as before, plus tests for the new methods.
+These are the BooksPlus DAOs from *Exercise: Connecting an App*, with their method bodies taken out. You'll write each one again, this time with **Dapper**, and add two new methods. The tests are the same as before, plus tests for the new methods.
 
 ## Before you start
 
